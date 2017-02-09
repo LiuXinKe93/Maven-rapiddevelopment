@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bfd-maven</groupId>
+  <artifactId>bfd-maven-log</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170209073344</lastUpdated>
+  </versioning>
+</metadata>
